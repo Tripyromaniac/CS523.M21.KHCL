@@ -7,7 +7,7 @@
 * **Năm học**: 2021-2022
 
 ## GIẢNG VIÊN 
-* ThS. **Nguyễn Thanh Sơn** - *truonganpn@uit.edu.vn*
+* ThS. **Nguyễn Thanh Sơn**
 
 ## DANH SÁCH THÀNH VIÊN NHÓM
 
