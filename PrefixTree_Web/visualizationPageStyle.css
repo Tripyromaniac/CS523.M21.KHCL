@@ -1,0 +1,122 @@
+﻿@charset "utf-8";
+
+
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	
+	margin: 0; 
+	padding: 0;
+	text-align: center;
+	color: #000000;
+}
+
+
+
+
+.VisualizationMainPage #mainContent {
+	
+	background: #FFFFFF;
+}
+
+
+
+.VisualizationMainPage #container {
+
+
+	background: #FFFFFF;
+	text-align: center;
+}
+
+
+.VisualizationMainPage #algoControlSection
+{
+	background: #DDEEDD; 
+	color:#000000; 
+
+}
+
+
+.VisualizationMainPage #generalAnimationControlSection
+{
+	background: #DDEEDD; 
+	color:#000000; 
+
+}
+
+.VisualizationMainPage  #header { 
+	background-image:url('Pictures/nyan.gif');
+	color:white;
+	padding: 0 10px 0 20px;
+	text-align:center;
+	height:90px;
+  
+} 
+ 
+.VisualizationMainPage #header  A:visited 
+	  { text-decoration:none;
+        color:#ffCC33; 
+	   }
+	   
+	   
+.VisualizationMainPage #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+	}
+	   
+.VisualizationMainPage #header A:link {
+    text-decoration:none;
+    color:#ffCC33;
+	}
+	
+	
+.VisualizationMainPage #container {
+	margin: 0 auto; 
+	text-align: center;
+	background:#000000;
+}	
+	
+	
+.VisualizationMainPage #footer  A:visited { text-decoration:none;
+        color:#ffcc33; 
+}
+
+.VisualizationMainPage #footer A:link {
+    text-decoration:none;
+	color:#ffCC33;
+}
+
+
+	
+
+.VisualizationMainPage #mainContent h1{
+	padding: 0 20px; 
+	background: #FFFFFF;
+	color:#000000
+}
+
+.VisualizationMainPage #mainContent h2{
+	padding: 0 20px; 
+	background: #FFFFFF;
+	color:#000000
+}
+
+.VisualizationMainPage #mainContent h3{
+	padding: 0 20px; 
+	background: #FFFFFF;
+	color:#000000
+}
+
+
+
+.VisualizationMainPage #footer { 
+	padding: 0 10px;
+    background: #000000; 
+	color:#ffcc33;
+} 
+.VisualizationMainPage #footer p {
+	margin: 0; 	padding: 10px 0; 
+}
+
+
+
+	
